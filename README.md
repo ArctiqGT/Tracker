@@ -10,3 +10,4 @@
 1. Attach the `Tracker` script to any GameObject in your Unity scene.
 2. Add the corresponding Cloudscript functions to your PlayFab account.
 3. Run your scene and test — the tracker will monitor room codes and log activity automatically.
+<img width="411" height="240" alt="image" src="https://github.com/user-attachments/assets/1931cd93-bff7-4226-81b2-7c04954b3631" />
