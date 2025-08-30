@@ -1,5 +1,5 @@
 <a href="https://discord.gg/CsMdeERN57"><img src="https://img.shields.io/badge/discord-brightgreen.svg?style=for-the-badge&logo=discord&colorA=23272a&colorB=7289da" alt="Discord!"></a>
-
+### PAID: $2 because simple
 # Tracker
 **A C# & PlayFab Cloudscript system** that monitors tracked players in real-time. Perfect for monitoring activity or just tracking them.
 
